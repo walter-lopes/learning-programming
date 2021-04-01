@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/find-the-duplicate-number/
 public class Solution {
     public int FindDuplicate(int[] nums) {        
         HashSet<int> map = new HashSet<int>();
